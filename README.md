@@ -11,12 +11,12 @@ A collection of outstanding github projects.
 | [DCGAN-tensorflow](https://github.com/carpedm20/DCGAN-tensorflow) | A tensorflow implementation of "Deep Convolutional Generative Adversarial Networks"  |
 | [FreeCodeCamp](https://github.com/Bjoux2/FreeCodeCamp) | The https://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits. |
 | [biopython](https://github.com/biopython/biopython) | Official git repository for Biopython (converted from CVS)  |
-| [tensorflow-tutorial](https://github.com/wagamamaz/tensorflow-tutorial) | TensorFlow and Deep Learning Tutorials |
-| [DeepLearningTutorials](https://github.com/lisa-lab/DeepLearningTutorials) | Deep Learning Tutorial notes and code. See the wiki for more info. http://deeplearning.net/tutorial |
+| [tensorflow tutorial](https://github.com/wagamamaz/tensorflow-tutorial) | TensorFlow and Deep Learning Tutorials |
+| [DeepLearningTutorials](https://github.com/lisa-lab/DeepLearningTutorials) | Deep Learning Tutorial notes and code. http://deeplearning.net/tutorial |
 | [matplotlib_for_papers](https://github.com/jbmouret/matplotlib_for_papers) | Handout for the tutorial "Creating publication-quality figures with matplotlib" |
 | [TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples) | TensorFlow Tutorial and Examples for beginners |
 | [deepdetect](https://github.com/beniz/deepdetect) | Deep Learning API and Server in C++11 with Python bindings and support for Caffe, Tensorflow, XGBoost and TSNE |
-| [reinforcement-learning](https://github.com/dennybritz/reinforcement-learning) | Implementation of Reinforcement Learning Algorithms. Python, OpenAI Gym, Tensorflow. Exercises and Solutions to accompany Sutton's Book and David Silver's course.  |
+| [reinforcement learning](https://github.com/dennybritz/reinforcement-learning) | Implementation of Reinforcement Learning Algorithms. Python, OpenAI Gym, Tensorflow. Exercises and Solutions to accompany Sutton's Book and David Silver's course.  |
 | []() |  |
 | []() |  |
 | []() |  |
