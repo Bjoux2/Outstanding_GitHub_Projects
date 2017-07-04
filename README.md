@@ -19,7 +19,7 @@ A collection of outstanding github projects.
 | [reinforcement learning](https://github.com/dennybritz/reinforcement-learning) | Implementation of Reinforcement Learning Algorithms. Python, OpenAI Gym, Tensorflow. Exercises and Solutions to accompany Sutton's Book and David Silver's course.  |
 | [optunity](https://github.com/claesenm/optunity) | optimization routines for hyperparameter tuning |
 | [prettyplotlib](https://github.com/olgabot/prettyplotlib) | Painlessly create beautiful matplotlib plots.  |
-| []() |  |
+| [awesome-python](https://github.com/vinta/awesome-python) | A curated list of awesome Python frameworks, libraries, software and resources |
 | []() |  |
 | []() |  |
 | []() |  |
