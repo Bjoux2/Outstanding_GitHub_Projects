@@ -20,7 +20,7 @@ A collection of outstanding github projects.
 | [optunity](https://github.com/claesenm/optunity) | optimization routines for hyperparameter tuning |
 | [prettyplotlib](https://github.com/olgabot/prettyplotlib) | Painlessly create beautiful matplotlib plots.  |
 | [awesome-python](https://github.com/vinta/awesome-python) | A curated list of awesome Python frameworks, libraries, software and resources |
-| []() |  |
+| [CodeHub](https://github.com/thedillonb/CodeHub) | CodeHub is the best way to browse and maintain your GitHub repositories on any iPhone, iPod Touch, and iPad device!  |
 | []() |  |
 | []() |  |
 | []() |  |
