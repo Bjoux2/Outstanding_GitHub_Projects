@@ -24,7 +24,7 @@ A collection of outstanding github projects.
 | **`Bioinformatics：`** | -------------------------------------------------------------------------------------------------------- |
 | [biopython](https://github.com/biopython/biopython) | Official git repository for Biopython (converted from CVS)  |
 | []() |  |
-| **`learn to codde：`** | -------------------------------------------------------------------------------------------------------- |
+| **`Learn to codde：`** | -------------------------------------------------------------------------------------------------------- |
 | [FreeCodeCamp](https://github.com/Bjoux2/FreeCodeCamp) | The https://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits. |
 | [awesome-python](https://github.com/vinta/awesome-python) | A curated list of awesome Python frameworks, libraries, software and resources |
 | [awesome-guidelines](https://github.com/Kristories/awesome-guidelines) | A curated list of high quality coding style conventions and standards. |
