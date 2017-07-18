@@ -14,12 +14,15 @@ A collection of outstanding github projects.
 | [deepdetect](https://github.com/beniz/deepdetect) | Deep Learning API and Server in C++11 with Python bindings and support for Caffe, Tensorflow, XGBoost and TSNE |
 | [TensorFlow Examples](https://github.com/aymericdamien/TensorFlow-Examples) | TensorFlow Tutorial and Examples for beginners |
 | [optunity](https://github.com/claesenm/optunity) | optimization routines for hyperparameter tuning |
+| []() |  |
 | **`Plotting：`** | -------------------------------------------------------------------------------------------------------- |
 | [prettyplotlib](https://github.com/olgabot/prettyplotlib) | Painlessly create beautiful matplotlib plots.  |
 | [matplotlib_for_papers](https://github.com/jbmouret/matplotlib_for_papers) | Handout for the tutorial "Creating publication-quality figures with matplotlib" |
 | [seaborn](https://github.com/mwaskom/seaborn) | Statistical data visualization using matplotlib |
+| []() |  |
 | **`Bioinformatics：`** | -------------------------------------------------------------------------------------------------------- |
 | [biopython](https://github.com/biopython/biopython) | Official git repository for Biopython (converted from CVS)  |
+| []() |  |
 | **`learn to codde：`** | -------------------------------------------------------------------------------------------------------- |
 | [FreeCodeCamp](https://github.com/Bjoux2/FreeCodeCamp) | The https://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits. |
 | [awesome-python](https://github.com/vinta/awesome-python) | A curated list of awesome Python frameworks, libraries, software and resources |
