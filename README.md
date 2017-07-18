@@ -14,6 +14,7 @@ A collection of outstanding github projects.
 | [deepdetect](https://github.com/beniz/deepdetect) | Deep Learning API and Server in C++11 with Python bindings and support for Caffe, Tensorflow, XGBoost and TSNE |
 | [TensorFlow Examples](https://github.com/aymericdamien/TensorFlow-Examples) | TensorFlow Tutorial and Examples for beginners |
 | [optunity](https://github.com/claesenm/optunity) | optimization routines for hyperparameter tuning |
+| [DeepLearningProject](https://github.com/Spandan-Madan/DeepLearningProject) | An in-depth machine learning tutorial introducing readers to a whole machine learning pipeline from scratch. |
 | []() |  |
 | **`Plotting：`** | -------------------------------------------------------------------------------------------------------- |
 | [prettyplotlib](https://github.com/olgabot/prettyplotlib) | Painlessly create beautiful matplotlib plots.  |
@@ -26,7 +27,6 @@ A collection of outstanding github projects.
 | **`learn to codde：`** | -------------------------------------------------------------------------------------------------------- |
 | [FreeCodeCamp](https://github.com/Bjoux2/FreeCodeCamp) | The https://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits. |
 | [awesome-python](https://github.com/vinta/awesome-python) | A curated list of awesome Python frameworks, libraries, software and resources |
-| [DeepLearningProject](https://github.com/Spandan-Madan/DeepLearningProject) | An in-depth machine learning tutorial introducing readers to a whole machine learning pipeline from scratch. |
 | [awesome-guidelines](https://github.com/Kristories/awesome-guidelines) | A curated list of high quality coding style conventions and standards. |
 | []() |  |
 | **`Others：`** | -------------------------------------------------------------------------------------------------------- |
