@@ -3,7 +3,7 @@ A collection of outstanding github projects.
 
 | Project | Description |
 | - | - |
-| **`Deep learning：`** | -------------------------------------------------------------------------------------------------------- |
+| **`Deep learning：`** |  |
 | [Deep Learning Papers Reading Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap) | Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech! |
 | [Machine Learning Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials) | machine learning and deep learning tutorials, articles and other resources |
 | [RocAlphaGo](https://github.com/Rochester-NRT/RocAlphaGo) | An independent, student-led replication of DeepMind's 2016 Nature publication, "Mastering the game of Go with deep neural networks and tree search" |
@@ -15,21 +15,21 @@ A collection of outstanding github projects.
 | [TensorFlow Examples](https://github.com/aymericdamien/TensorFlow-Examples) | TensorFlow Tutorial and Examples for beginners |
 | [optunity](https://github.com/claesenm/optunity) | optimization routines for hyperparameter tuning |
 | [DeepLearningProject](https://github.com/Spandan-Madan/DeepLearningProject) | An in-depth machine learning tutorial introducing readers to a whole machine learning pipeline from scratch. |
-| []() |  |
-| **`Plotting：`** | -------------------------------------------------------------------------------------------------------- |
+| ------------------------ | -------------------------------------------------------------------------------------------------------- |
+| **`Plotting：`** |  |
 | [prettyplotlib](https://github.com/olgabot/prettyplotlib) | Painlessly create beautiful matplotlib plots.  |
 | [matplotlib_for_papers](https://github.com/jbmouret/matplotlib_for_papers) | Handout for the tutorial "Creating publication-quality figures with matplotlib" |
 | [seaborn](https://github.com/mwaskom/seaborn) | Statistical data visualization using matplotlib |
-| []() |  |
-| **`Bioinformatics：`** | -------------------------------------------------------------------------------------------------------- |
+| ------------------------ | -------------------------------------------------------------------------------------------------------- |
+| **`Bioinformatics：`** |  |
 | [biopython](https://github.com/biopython/biopython) | Official git repository for Biopython (converted from CVS)  |
-| []() |  |
-| **`Learn to codde：`** | -------------------------------------------------------------------------------------------------------- |
+| ------------------------ | -------------------------------------------------------------------------------------------------------- |
+| **`Learn to codde：`** |  |
 | [FreeCodeCamp](https://github.com/Bjoux2/FreeCodeCamp) | The https://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits. |
 | [awesome-python](https://github.com/vinta/awesome-python) | A curated list of awesome Python frameworks, libraries, software and resources |
 | [awesome-guidelines](https://github.com/Kristories/awesome-guidelines) | A curated list of high quality coding style conventions and standards. |
-| ------------------------- | -------------------------------------------------------------------------------------------------------- |
-| **`Others：`** | -------------------------------------------------------------------------------------------------------- |
+| ------------------------ | -------------------------------------------------------------------------------------------------------- |
+| **`Others：`** |  |
 | [awesome](https://github.com/sindresorhus/awesome) | Curated list of awesome lists |
 | [CodeHub](https://github.com/thedillonb/CodeHub) | CodeHub is the best way to browse and maintain your GitHub repositories on any iPhone, iPod Touch, and iPad device!  |
 | [README](https://github.com/guodongxiaren/README) | README文件语法解读，即Github Flavored Markdown语法介绍 |
