@@ -3,6 +3,7 @@ A collection of outstanding github projects.
 
 | Project | Description |
 | - | - |
+| ------------------------ | -------------------------------------------------------------------------------------------------------- |
 | **`Deep learning：`** |  |
 | [Deep Learning Papers Reading Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap) | Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech! |
 | [Machine Learning Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials) | machine learning and deep learning tutorials, articles and other resources |
