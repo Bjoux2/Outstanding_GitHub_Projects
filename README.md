@@ -17,6 +17,9 @@ A collection of outstanding github projects.
 | [optunity](https://github.com/claesenm/optunity) | optimization routines for hyperparameter tuning |
 | [DeepLearningProject](https://github.com/Spandan-Madan/DeepLearningProject) | An in-depth machine learning tutorial introducing readers to a whole machine learning pipeline from scratch. |
 | ------------------------ | -------------------------------------------------------------------------------------------------------- |
+| **`Machine Learning：`** |  |
+| [xLearn](https://github.com/aksnzhy/xlearn) | High Performance, Easy-to-use, and Scalable Machine Learning Package |
+| ------------------------ | -------------------------------------------------------------------------------------------------------- |
 | **`Plotting：`** |  |
 | [prettyplotlib](https://github.com/olgabot/prettyplotlib) | Painlessly create beautiful matplotlib plots.  |
 | [matplotlib_for_papers](https://github.com/jbmouret/matplotlib_for_papers) | Handout for the tutorial "Creating publication-quality figures with matplotlib" |
